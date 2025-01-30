@@ -2,5 +2,5 @@
 
 set -e
 
-source /home/ascento/catkin_ws/setup.bash
+source /home/ascento/clearpath_ws/install/setup.bash
 ros2 launch clearpath_gz simulation.launch.py
